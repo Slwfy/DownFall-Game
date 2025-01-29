@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_player",
-  "eventList":[],
+  "%Name":"menuRoomStartObj",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_player",
+  "name":"menuRoomStartObj",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -27,10 +29,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_player",
-    "path":"sprites/spr_player/spr_player.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
