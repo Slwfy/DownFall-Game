@@ -34,6 +34,8 @@
   },
   "name":"DownFall GAME REAL",
   "resources":[
+    {"id":{"name":"borderObj","path":"objects/borderObj/borderObj.yy",},},
+    {"id":{"name":"characterObj","path":"objects/characterObj/characterObj.yy",},},
     {"id":{"name":"gameRoomStartObj","path":"objects/gameRoomStartObj/gameRoomStartObj.yy",},},
     {"id":{"name":"helpButtonObj","path":"objects/helpButtonObj/helpButtonObj.yy",},},
     {"id":{"name":"menuRoomStartObj","path":"objects/menuRoomStartObj/menuRoomStartObj.yy",},},
@@ -44,6 +46,8 @@
     {"id":{"name":"menuRoom","path":"rooms/menuRoom/menuRoom.yy",},},
     {"id":{"name":"gameSound","path":"sounds/gameSound/gameSound.yy",},},
     {"id":{"name":"menuSound","path":"sounds/menuSound/menuSound.yy",},},
+    {"id":{"name":"backgroundPlaceHolderSpr","path":"sprites/backgroundPlaceHolderSpr/backgroundPlaceHolderSpr.yy",},},
+    {"id":{"name":"blankSpr","path":"sprites/blankSpr/blankSpr.yy",},},
     {"id":{"name":"helpButton1Spr","path":"sprites/helpButton1Spr/helpButton1Spr.yy",},},
     {"id":{"name":"helpButton2Spr","path":"sprites/helpButton2Spr/helpButton2Spr.yy",},},
     {"id":{"name":"menuScreenSpr","path":"sprites/menuScreenSpr/menuScreenSpr.yy",},},
