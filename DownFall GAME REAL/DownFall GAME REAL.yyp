@@ -43,6 +43,7 @@
     {"id":{"name":"gameRoom","path":"rooms/gameRoom/gameRoom.yy",},},
     {"id":{"name":"helpRoom","path":"rooms/helpRoom/helpRoom.yy",},},
     {"id":{"name":"menuRoom","path":"rooms/menuRoom/menuRoom.yy",},},
+    {"id":{"name":"rm_play","path":"rooms/rm_play/rm_play.yy",},},
     {"id":{"name":"gameSound","path":"sounds/gameSound/gameSound.yy",},},
     {"id":{"name":"menuSound","path":"sounds/menuSound/menuSound.yy",},},
     {"id":{"name":"helpButton1Spr","path":"sprites/helpButton1Spr/helpButton1Spr.yy",},},
@@ -60,6 +61,7 @@
     {"roomId":{"name":"menuRoom","path":"rooms/menuRoom/menuRoom.yy",},},
     {"roomId":{"name":"gameRoom","path":"rooms/gameRoom/gameRoom.yy",},},
     {"roomId":{"name":"helpRoom","path":"rooms/helpRoom/helpRoom.yy",},},
+    {"roomId":{"name":"rm_play","path":"rooms/rm_play/rm_play.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
