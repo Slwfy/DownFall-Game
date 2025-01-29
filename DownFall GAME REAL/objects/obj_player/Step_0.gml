@@ -7,7 +7,13 @@ var move_left		= -keyboard_check(ord("A"));
 
 #endregion
 
-player_accel = 0.8;
+var ground = instance_place(x, y+15, obj_wall);
+
+if(ground){
+	player_accel = ground.accel;	
+}else{
+	player_accel = 0.8;	
+}
 
 //process inputs
 var dir = (move_right + move_left);
@@ -24,3 +30,6 @@ if(dir != 0){
 }
 
 vsp_inertia += grav;
+
+
+
