@@ -1,15 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_feather",
-<<<<<<< Updated upstream
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
-=======
+  "%Name":"Object9",
   "eventList":[],
->>>>>>> Stashed changes
   "managed":true,
-  "name":"obj_feather",
+  "name":"Object9",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -33,14 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-<<<<<<< Updated upstream
-  "spriteId":{
-    "name":"spr_feather",
-    "path":"sprites/spr_feather/spr_feather.yy",
-  },
-=======
   "spriteId":null,
->>>>>>> Stashed changes
   "spriteMaskId":null,
   "visible":true,
 }
